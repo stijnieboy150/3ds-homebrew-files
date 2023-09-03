@@ -1,0 +1,1 @@
+This process will overwrite your Pokémon Picross save file, if you have one. If you wish to preserve your Pokémon Picross game data, you should make a backup of your 00000001.sav file before overwriting it.
