@@ -1,1 +1,0 @@
-This process will overwrite your Steel Diver: Sub Wars save file, if you have one. If you wish to preserve your Steel Diver: Sub Wars game data, you should make a backup of your 00000001.sav file before overwriting it.
